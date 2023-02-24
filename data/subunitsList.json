@@ -1,0 +1,99 @@
+[
+  {
+    "subunitID": "loona-one-third",
+    "subunitName": "LOONA 1/3",
+    "members": [
+      {
+        "id": "heejin",
+        "name": "HeeJin"
+      },
+      {
+        "id": "hyunjin",
+        "name": "HyunJin"
+      },
+      {
+        "id": "haseul",
+        "name": "HaSeul"
+      },
+      {
+        "id": "vivi",
+        "name": "ViVi"
+      }
+    ],
+    "albums": [
+      {
+        "id": "love-and-live",
+        "name": "Love & Live"
+      },
+      {
+        "id": "love-and-evil",
+        "name": "Love & Evil"
+      }
+    ],
+    "debut": "2017-03-12",
+    "logoURL": "https://static.wikia.nocookie.net/loonatheworld/images/b/bf/LOONA_1-3_Logo_black.svg/revision/latest/?format=original",
+    "imageURL": "https://static.wikia.nocookie.net/loonatheworld/images/3/3a/LOONA_1-3_Love_and_Live_group_photo.PNG/revision/latest/scale-to-width-down/1000?cb=20170503014625"
+  },
+  {
+    "subunitID": "odd-eye-circle",
+    "subunitName": "ODD EYE CIRCLE",
+    "members": [
+      {
+        "id": "kim-lip",
+        "name": "Kim Lip"
+      },
+      {
+        "id": "jinsoul",
+        "name": "JinSoul"
+      },
+      {
+        "id": "choerry",
+        "name": "Choerry"
+      }
+    ],
+    "albums": [
+      {
+        "id": "mix-and-match",
+        "name": "Mix & Match"
+      },
+      {
+        "id": "max-and-match",
+        "name": "Max & Match"
+      }
+    ],
+    "debut": "2017-09-21",
+    "logoURL": "https://static.wikia.nocookie.net/loonatheworld/images/f/f7/OEC_Logo_black.svg/revision/latest/?format=original",
+    "imageURL": "https://wallpapercave.com/wp/wp7516851.jpg"
+  },
+  {
+    "subunitID": "yyxy",
+    "subunitName": "yyxy",
+    "members": [
+      {
+        "id": "yves",
+        "name": "Yves"
+      },
+      {
+        "id": "chuu",
+        "name": "Chuu"
+      },
+      {
+        "id": "go-won",
+        "name": "Go Won"
+      },
+      {
+        "id": "olivia-hye",
+        "name": "Olivia Hye"
+      }
+    ],
+    "albums": [
+      {
+        "id": "beauty-and-the-beat",
+        "name": "beauty&thebeat"
+      }
+    ],
+    "debut": "2018-05-30",
+    "logoURL": "https://static.wikia.nocookie.net/loonatheworld/images/1/13/Yyxy_Logo_small_black.svg/revision/latest/?format=original",
+    "imageURL": "https://lastfm.freetls.fastly.net/i/u/3c28b231a889d2582978174cdad2e4e6.jpg"
+  }
+]

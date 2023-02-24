@@ -1,0 +1,100 @@
+{
+  "soloAlbums": [
+    {
+      "albumID": "heejin",
+      "name": "HeeJin",
+      "releaseYear": "2016",
+      "releaseDate": "2016-10-05",
+      "tracks": ["ViViD", "ViViD (Acoustic Mix)"],
+      "imageURL": "https://coverartarchive.org/release/3111c251-ee01-4a10-89c9-953b86efad28/20544116879-1200.jpg"
+    },
+    {
+      "albumID": "hyunjin",
+      "name": "HyunJin",
+      "releaseYear": "2016",
+      "releaseDate": "2016-11-17",
+      "tracks": ["I'll Be There", "Around You (다녀가요)"],
+      "imageURL": "https://coverartarchive.org/release/b784e2df-91f1-46ec-ab5a-190c45421ee3/20544163415-1200.jpg"
+    },
+    {
+      "albumID": "haseul",
+      "name": "HaSeul",
+      "releaseYear": "2016",
+      "releaseDate": "2016-12-15",
+      "tracks": ["The Carol", "Let Me In (소년, 소녀)"],
+      "imageURL": "https://coverartarchive.org/release/8735864f-a6d8-4d95-abd1-ec7f747aaa7f/20544192884-1200.jpg"
+    },
+    {
+      "albumID": "yeojin",
+      "name": "YeoJin",
+      "releaseYear": "2017",
+      "releaseDate": "2917-01-16",
+      "tracks": ["Kiss Later (키스는 다음에)", "My Sunday", "My Melody"],
+      "imageURL": "https://coverartarchive.org/release/bf8b1f51-577d-4a2c-82b6-60f1b4755a0f/20544222610-1200.jpg"
+    },
+    {
+      "albumID": "vivi",
+      "name": "ViVi",
+      "releaseYear": "2017",
+      "releaseDate": "2017-04-17",
+      "tracks": ["Everyday I Love You", "Everyday I Need You"],
+      "imageURL": "https://coverartarchive.org/release/923b6cc3-1d16-4909-9443-276d305b0e73/20544287103-1200.jpg"
+    },
+    {
+      "albumID": "kim-lip",
+      "name": "Kim Lip",
+      "releaseYear": "2017",
+      "releaseDate": "2017-05-23",
+      "tracks": ["Eclipse", "Twilight"],
+      "imageURL": "https://coverartarchive.org/release/7c8779a5-1eda-48f9-9929-a0524ece76b0/20544330294-1200.jpg"
+    },
+    {
+      "albumID": "jinsoul",
+      "name": "Jinsoul",
+      "releaseYear": "2017",
+      "releaseDate": "2017-06-26",
+      "tracks": ["Singing in the Rain", "Love Letter"],
+      "imageURL": "https://coverartarchive.org/release/c92c8b56-4f7a-464e-9c7f-2cde44ad54cd/17232023069-1200.jpg"
+    },
+    {
+      "albumID": "choerry",
+      "name": "Choerry",
+      "releaseYear": "2017",
+      "releaseDate": "2017-07-28",
+      "tracks": ["Love Cherry Motion", "Puzzle"],
+      "imageURL": "https://coverartarchive.org/release/b9c5d56e-811a-4866-9c2b-d660b055d867/17374753477-1200.jpg"
+    },
+    {
+      "albumID": "yves",
+      "name": "Yves",
+      "releaseYear": "2017",
+      "releaseDate": "2017-11-28",
+      "tracks": ["new", "D-1"],
+      "imageURL": "https://coverartarchive.org/release/7865ea0c-37d8-4aa2-ad2d-c8bfd1d01131/18434189318-1200.jpg"
+    },
+    {
+      "albumID": "chuu",
+      "name": "Chuu",
+      "releaseYear": "2017",
+      "releaseDate": "2017-12-28",
+      "tracks": ["Heart Attack", "Girl's Talk"],
+      "imageURL": "https://coverartarchive.org/release/1e1c2f04-f411-4e18-803d-c7d376b392ef/18705249408-1200.jpg"
+    },
+    {
+      "albumID": "go-won",
+      "name": "Go Won",
+      "releaseYear": "2018",
+      "releaseDate": "2018-01-30",
+      "tracks": ["One & Only", "See Saw"],
+      "imageURL": "https://coverartarchive.org/release/9481da0f-13d8-45be-b83b-1113bea99d10/18979782238-1200.jpg"
+    },
+    {
+      "albumID": "olivia-hye",
+      "name": "Olivia Hye",
+      "releaseYear": "2018",
+      "releaseDate": "2018-03-30",
+      "tracks": ["Egoist", "Rosy"],
+      "imageURL": "https://coverartarchive.org/release/1070b790-4569-48aa-a695-b864386f473d/19528763983-1200.jpg"
+    }
+  ]
+}

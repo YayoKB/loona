@@ -1,0 +1,74 @@
+{
+  "subunitAlbums": [
+    {
+      "albumID": "love-and-live",
+      "name": "Love & Live",
+      "releaseYear": "2017",
+      "releaseDate": "2017-03-13",
+      "tracks": [
+        "Into the New Heart",
+        "Love & Live (지금, 좋아해)",
+        "You and Me Together",
+        "Fairy Tale",
+        "Valentine Girl (3월을 기다려)"
+      ],
+      "imageURL": "https://coverartarchive.org/release/bad44d90-2d12-4ec7-8bc1-4780ff029ad9/16247031143-1200.jpg"
+    },
+    {
+      "albumID": "love-and-evil",
+      "name": "Love & Evil",
+      "releaseYear": "2017",
+      "releaseDate": "2017-04-27",
+      "tracks": [
+        "Love & Evil",
+        "Sonatine (알 수 없는 비밀)",
+        "Rain 51db (비의 목소리 51db)",
+        "Love & Live (지금, 좋아해)",
+        "You and Me Together",
+        "Fairy Tale",
+        "Valentine Girl (3월을 기다려)"
+      ],
+      "imageURL": "https://coverartarchive.org/release/ddf80ac7-46d2-40b6-86cb-a05801288f87/16631906743-1200.jpg"
+    },
+    {
+      "albumID": "mix-and-match",
+      "name": "Mix & Match",
+      "releaseYear": "2017",
+      "releaseDate": "2017-09-21",
+      "tracks": ["ODD", "Girl Front", "LOONATIC", "Chaotic", "Starlight"],
+      "imageURL": "https://coverartarchive.org/release/e16fbc0c-5c16-4095-a9e0-e11f75fb7642/17852892836-1200.jpg"
+    },
+    {
+      "albumID": "max-and-match",
+      "name": "Max & Match",
+      "releaseYear": "2017",
+      "releaseDate": "2017-10-31",
+      "tracks": [
+        "ADD",
+        "Sweet Crazy Love",
+        "Uncover",
+        "Girl Front",
+        "LOONATIC",
+        "Chaotic",
+        "Starlight",
+        "ODD Front",
+        "LOONATIC (English Version) (Limited version only)"
+      ],
+      "imageURL": "https://coverartarchive.org/release/e5f8bedb-317b-49f4-a379-65feb81044b2/18211650464-1200.jpg"
+    },
+    {
+      "albumID": "beauty-and-the-beat",
+      "name": "beauty&thebeat",
+      "releaseYear": "2018",
+      "releaseDate": "2018-05-30",
+      "tracks": [
+        "dal segno",
+        "love4eva (feat. Grimes)",
+        "frozen",
+        "one way",
+        "rendezvous 18.6y"
+      ],
+      "imageURL": "https://coverartarchive.org/release/b6584b44-9510-4841-95e9-61c13f8eaf8a/22936408662-1200.jpg"
+    }
+  ]
+}

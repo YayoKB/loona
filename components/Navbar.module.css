@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  width: 100%;
+  padding: 32px;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  background-color: grey;
+  color: white;
+}
+
+.title {
+  font-weight: bolder;
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
+}
+
+.links li {
+  list-style: none;
+}

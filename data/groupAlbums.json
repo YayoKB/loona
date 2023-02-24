@@ -1,0 +1,126 @@
+{
+  "groupAlbums": [
+    {
+      "id": "plus-plus",
+      "name": "[+ +]",
+      "releaseYear": 2018,
+      "releaseDate": "2018-08-20",
+      "tracks": [
+        "++",
+        "Hi High",
+        "favOriTe",
+        "열기 (Heat)",
+        "Perfect Love",
+        "Stylish"
+      ],
+      "imageURL": "https://coverartarchive.org/release/04f45e09-c223-427b-a73f-0571afa08226/20725148153-1200.jpg"
+    },
+    {
+      "id": "multiple-multiple",
+      "name": "[X X]",
+      "releaseYear": "2019",
+      "releaseDate": "2019-02-19",
+      "tracks": [
+        "XX",
+        "Butterfly",
+        "Satellite (위성)",
+        "Curiosity",
+        "Colors (색깔)",
+        "Where you at",
+        "Stylish",
+        "Perfect Love",
+        "Heat (열기)",
+        "favOriTe",
+        "Hi High",
+        "++",
+        "Stay With Me Babe (Limited A only)",
+        "Daydream (Limited B only)"
+      ],
+      "imageURL": "https://coverartarchive.org/release/56e6d625-4823-4580-9a53-d81519998bcf/30541991837-1200.jpg"
+    },
+    {
+      "id": "hash",
+      "name": "[#]",
+      "releaseYear": "2020",
+      "releaseDate": "2020-02-05",
+      "tracks": [
+        "#",
+        "So What",
+        "Number 1",
+        "Oh (Yes I Am)",
+        "Ding Ding Dong (땡땡땡)",
+        "365",
+        "Day & Night (Limited A & B only)"
+      ],
+      "imageURL": "https://coverartarchive.org/release/6ba24e78-9793-4b38-a188-43cc4eb62808/25339164305-1200.jpg"
+    },
+    {
+      "id": "midnight",
+      "name": "[12:00]",
+      "releaseYear": "2020",
+      "releaseDate": "2020-10-19",
+      "tracks": [
+        "12:00",
+        "Why Not?",
+        "Voice (목소리)",
+        "Fall Again (기억해)",
+        "Hide & Seek (숨바꼭질)",
+        "OOPS!",
+        "Star (Voice English Ver.)"
+      ],
+      "imageURL": "https://coverartarchive.org/release/886eff5a-186a-4a5d-a9d1-1f81172a29bb/27567900414-1200.jpg"
+    },
+    {
+      "id": "and",
+      "name": "[&]",
+      "releaseYear": "2021",
+      "releaseDate": "2021-06-28",
+      "tracks": [
+        "&",
+        "PTT (Paint The Town)",
+        "WOW",
+        "Be Honest",
+        "Dance On My Own",
+        "A Different Night",
+        "U R"
+      ],
+      "imageURL": "https://coverartarchive.org/release/54617bc9-27a7-4889-8bdc-e8d481d9a9ab/29734645159-1200.jpg"
+    },
+    {
+      "id": "hula-hoop-starseed",
+      "name": "Hula Hoop / StarSeed 〜カクセイ〜",
+      "releaseYear": "2021",
+      "releaseDate": "2021-09-15",
+      "tracks": [
+        "HULA HOOP",
+        "StarSeed ~Kakusei~ (StarSeed 〜カクセイ〜)",
+        "PTT (Paint The Town) Japanese Ver.",
+        "HULA HOOP City Pop Ver."
+      ],
+      "imageURL": "https://coverartarchive.org/release/46300469-bf8f-4c63-9ab5-575ebdb33a5b/30410650552-1200.jpg"
+    },
+    {
+      "id": "flip-that",
+      "name": "Flip That",
+      "releaseYear": "2022",
+      "releaseDate": "2022-06-20",
+      "tracks": [
+        "The Journey",
+        "Flip That",
+        "Need U",
+        "Pose",
+        "Pale Blue Dot",
+        "Playback"
+      ],
+      "imageURL": "https://coverartarchive.org/release/65038e7e-e0ed-4d06-8324-791c8a7c34af/32818932973-1200.jpg"
+    },
+    {
+      "id": "luminous",
+      "name": "LUMINOUS",
+      "releaseYear": "2022",
+      "releaseDate": "2022-09-28",
+      "tracks": ["LUMINOUS", "SICK LOVE", "Hi High (Japanese Ver.)"],
+      "imageURL": "https://coverartarchive.org/release/87115bb9-e0d1-44d8-9e15-ecb896723185/33368128388-1200.jpg"
+    }
+  ]
+}

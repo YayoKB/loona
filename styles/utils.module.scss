@@ -1,0 +1,53 @@
+.grid {
+  display: flex;
+  /* grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); */
+  gap: 64px;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex: auto;
+}
+
+.grid > * {
+  flex-basis: min(260px, 100%);
+}
+
+.soloAlbumGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+}
+
+.album {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.card {
+  transition: transform 200ms ease-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card > a {
+  display: inline-flex;
+  flex-direction: column;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+.card > a > img {
+  margin-bottom: -5px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.card > a > h1 {
+  background-color: pink;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #f0f0f0;
+  padding: 1rem;
+}

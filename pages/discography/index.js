@@ -3,7 +3,7 @@ import Link from "next/link";
 const DiscogPage = () => {
   return (
     <>
-      <h1>This is LOONA&apos;s discography.</h1>
+      <h1>Discography</h1>
       <div>
         View LOONA&apos;s:
         <ul>

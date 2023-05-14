@@ -4,7 +4,7 @@ import styles from "../styles/home.module.css";
 export default function Home() {
   return (
     <section className={styles.home}>
-      <h1>This is LOONA!</h1>
+      <h1>This is LOOΠΔ</h1>
       <div>
         <ul>
           <li>

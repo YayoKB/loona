@@ -5,7 +5,7 @@
 }
 
 main {
-  padding-inline: 32px;
+  padding: 64px;
 }
 
 h1 {
@@ -22,4 +22,9 @@ ul li {
 
 p {
   line-height: 1.5;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
